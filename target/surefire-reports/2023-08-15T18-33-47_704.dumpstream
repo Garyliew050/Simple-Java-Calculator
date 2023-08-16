@@ -1,0 +1,5 @@
+# Created at 2023-08-15T18:33:47.874
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Github\SCC\Simple-Java-Calculator\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
